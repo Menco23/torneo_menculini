@@ -9,5 +9,9 @@ package torneo_menculini;
  * @author B045_07
  */
 public class Arbitro {
+    public String nome;
     
+    public Arbitro (String nome){
+    this.nome = nome;
+    }
 }
