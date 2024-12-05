@@ -16,6 +16,8 @@ public class Torneo_Menculini {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Inizio torneo");
+        System.out.println("fine partita!!!");
     }
     
+     
 }
