@@ -15,14 +15,11 @@ public class Torneo_Menculini {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-<<<<<<< HEAD
         System.out.println("Inizio torneo");
         System.out.println("Fine torneo torneo");
-=======
         System.out.println("Inizio creazione squadra");
         System.out.println("Fine creazione squadra");
-        
->>>>>>> ProgetSquadra
+
     }
     
 }

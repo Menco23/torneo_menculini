@@ -11,14 +11,7 @@ package torneo_menculini;
 public class Arbitro {
     public String nome;
     
-<<<<<<< HEAD
     public Arbitro (String nome){
     this.nome = nome;
     }
-=======
-    public Arbitro(String nome){
-    this.nome = nome;
-    }
-
->>>>>>> ProgetSquadra
 }
